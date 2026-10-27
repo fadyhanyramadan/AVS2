@@ -1,0 +1,202 @@
+{
+  "home": {
+    "welcome": "Welcome to",
+    "title": "AVS Solutions Smart Sound and Video Systems",
+    "disc": "is proud to be the sole distributor of a variety of internationally acclaimed brands in Egypt, such as renowned Bose, JBL, Pioneer DJ, Shure and Harman Professional.",
+    "btn": "Contact us"
+  },
+  "counter": {
+    "projects": "Project Completed",
+    "years": "Years of Experience",
+    "clients": "Clients Worldwide"
+  },
+  "servHeader": {
+    "title": "our services",
+    "disc": "Growth Based Services"
+  },
+  "services": {
+    "header1": "Audio System",
+    "disc1": "AVS specializes in providing audio systems, internal radio, and communication systems for the commercial and industrial sectors, and economical, high-purity audio systems for companies, shops, factories, and hospitals.",
+    "header2": "Video System",
+    "disc2": "AVS Company is for those who want The home sound system is the most important means of entertainment at home, whether on occasions and parties or within the daily routine while you are there. Home audio systems have degrees of quality and include a system that starts from wall speakers (internal and external speakers installed on the walls), ceiling speakers (drop ceiling speakers and gypsum board). ",
+    "header3": "Date & Network",
+    "disc3": "AVS is intended for those who want to create communication systems over internal networks, which contributes to…It saves time and effort and makes the communication process more effective. By phone or by emailCorrespondence for large or small companies, as well as wired and wireless Internet connection systems",
+    "header4": "Surveillance systems",
+    "disc4": "AVS Company is for those who want Security cameras equipped with artificial intelligence on city streets help monitor and track criminals and identify their identities.Monitoring the workflow of employees and whether there is any failure to perform their duties, thus improving productivity."
+  },
+  "aboutHeader": {
+    "title": "about us",
+    "disc": "Why We Are Best"
+  },
+  "about": {
+    "disc": "AVS is a leading provider of Audio Video Systems and ICT solutions, delivering innovative technologies and quality services.We believe in responsibility, respect, and long-term partnerships that create real value for our clients.Driven by a passion for results, we combine expertise and excellence to ensure future-proof solutions.",
+    "point1": "Integrated Technology Solutions",
+    "point2": "Vision of Responsibility & Respect",
+    "point3": "Passion for Innovation & Excellence",
+    "point4": "Commitment to Customer Success",
+    "btn": "about us",
+    "title":"About Us",
+    "description":"Who We Are"
+  },
+  "blogHeader": {
+    "title": "our blog",
+    "disc": "Latest news"
+  },
+  "blogs": {
+    "title1": "Transforming Spaces with Professional Audio Systems",
+    "title2": "The Power of Visual Excellence in Modern Businesses",
+    "title3": "The Future of Audio-Visual Solutions",
+    "disc1": "High-quality audio is the heart of every event, conference, and presentation. Discover how advanced AVS solutions deliver crystal-clear sound that enhances communication and leaves a lasting impression.",
+    "disc2": "From boardrooms to auditoriums, professional video systems create impactful experiences. Learn how AVS technologies bring clarity, precision, and engagement to every screen.",
+    "disc3": "Today’s organizations need more than just sound and screens—they need harmony. See how AVS integrates audio and video into a single seamless experience that boosts efficiency and elevates performance."
+  },
+  "partnerHeader": {
+    "title": "our partners",
+    "disc": "Trusted partners for shared success"
+  },
+  "brandsHeader": {
+    "title": "collections",
+    "disc": "Shop by brand"
+  },
+  "projectsHeader": {
+    "title": "our projects",
+    "disc": "Turning Ideas Into Reality"
+  },
+  "projectInfoHeader": {
+    "title": "Do You Have an Idea?",
+    "disc": "Don't hesitate to contact us, we're here to help you"
+  },
+  "projects": {
+    "header1": "Smart Integration",
+    "disc1": "Delivering advanced systems that seamlessly connect technology and design, ensuring efficiency, reliability, and future-ready performance.",
+    "header2": "Innovative Design",
+    "disc2": "Turning creative ideas into practical solutions that meet client goals with precision, impact, and long-term value.",
+    "header3": "Reliable Solutions",
+    "disc3": "Focused on quality and execution, our projects provide lasting results and exceed expectations at every stage.",
+    "btn": "read more"
+  },
+  "productHeader":{
+    "title":"our products",
+    "disc":"discover our products",
+    "search":"Search products",
+    "noResults":"No products found."
+  },
+  "blogBanner":{
+    "title":"Blogs"
+  },
+  "contactHeader":{
+    "title":"contact us",
+    "disc":"Share your idea with us"
+  },
+  "contactPage":{
+    "title":"contact us",
+    "disc":"get in touch with us"
+  },
+  "faq": {
+    "title": "FAQs",
+    "disc": "Find answers to common questions"
+  },
+  "footer": {
+    "getInTouch": "Get In Touch",
+    "contactUs": "Contact Us",
+    "contactForOrder": "Contact For Order",
+    "contactForProject": "Contact For Project",
+    "importantLinks": "Important Links",
+    "home": "Home",
+    "about": "About",
+    "blogs": "Blogs",
+    "contact": "Contact",
+    "products": "Shop",
+    "projects": "Projects",
+    "cart": "Cart",
+    "services": "Services",
+    "rightsReserved": "All rights reserved"
+  },
+  "singleProduct": {
+    "currency":"EG",
+    "status":"Status",
+    "available":"Available",
+    "soldOut":"Sold out",
+    "category":"Category",
+    "brand":"Brand",
+    "categories":"Category",
+    "brands":"Brand",
+    "delete":"Clear Filter",
+    "btn":"Add to cart",
+    "filter":"Filter",
+    "sortBy":"Sort by",
+    "priceLowToHigh":"Price: low to high",
+    "priceHighToLow":"Price: high to low",
+    "alphabetical":"Alphabetical (A–Z)"
+  },
+  "cart": {
+    "btn": "Add to cart",
+    "addSuccess": "Product added to cart successfully!",
+    "addError": "Failed to add product to cart",
+    "title": "Shop Cart",
+    "totalPrice": "Total Cart Price:",
+    "emptyCart": "No products in cart",
+    "emptyCartDesc": "Add products to display them here",
+    "remove": "Remove"
+  },
+  "cartForm": {
+    "title": "Complete Your Order",
+    "description": "Once you fill in your details, your request will be confirmed within 24 hours.",
+    "success": "Your order has been placed successfully!",
+    "error": "Failed to place order. Please try again later.",
+    "validation": {
+      "name": "Name must be at least 2 characters",
+      "email": "Please enter a valid email",
+      "phone": "Phone number is required",
+      "address": "Address must be at least 10 characters"
+    }
+  },
+  "cartPlaceholders": {
+    "name": "Your Name",
+    "email": "Your Email",
+    "phone": "Your Phone Number",
+    "address": "Your Address",
+    "submitButton": "Apply Order"
+  },
+  "contactForm": {
+    "success": "Your message has been sent successfully!",
+    "error": "Failed to send message. Please try again later.",
+    "validation": {
+      "name": "Name must be at least 2 characters",
+      "email": "Please enter a valid email",
+      "subject": "Subject is required",
+      "message": "Message must be at least 10 characters"
+    }
+  },
+      "placeholders": {
+      "title": "You Have a Question?",
+    "description": "We'd love to hear from you!",
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Your Subject",
+      "message": "Your Message",
+      "submitButton": "Send Message"
+    },
+    "contact":{
+"phone":"Phone Number",
+"website":"website",
+"email":"Email Address",
+"contactPhone":"Contact Us",
+"contactOrder":"Contact For Order",
+"contactProject":"Contact For Project"
+    },
+    
+  "nav": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "blogs": "Blogs",
+    "projects": "Projects",
+    "products": "Shop",
+    "contactUs": "Contact Us",
+    "languageToggle": {
+      "en": "EN",
+      "ar": "AR"
+    },
+    "cart": "Cart"
+  }
+}
